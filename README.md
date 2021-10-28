@@ -1,2 +1,2 @@
 # Project-Template
-a template for general deep learning projects
+a general template for various deep learning projects

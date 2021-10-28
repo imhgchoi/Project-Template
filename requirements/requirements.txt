@@ -1,0 +1,8 @@
+numpy
+packaging
+pandas
+pathtools
+pycocotools
+scipy
+wandb
+torch_optimizer
