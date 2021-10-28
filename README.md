@@ -20,3 +20,7 @@ A general project template for Deep Learning projects
         chmod +x run/sample.sh
 
         run/sample.sh
+
+5. For parallel computing, start off with the following command. The following is for the case when you have 8 GPU's available.
+
+        python -m torch.distributed.launch --nproc_per_node=8 --use_env src/main.py --...
