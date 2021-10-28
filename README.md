@@ -10,7 +10,13 @@ A general project template for Deep Learning projects
 2. Run requirements/setup.sh to install packages.
 
         chmod +x requirements/setup.sh
-        
+
         requirements/setup.sh
 
 3. Raw data for Imagenet & COCO2017 should be downloaded yourself, and its directory must be specified in the runnable shell file for use.
+
+4. Create your shell file in run/ and execute the program. The following is an example.
+        
+        chmod +x run/sample.sh
+
+        run/sample.sh
