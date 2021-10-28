@@ -2,7 +2,7 @@
 
 A general project template for Deep Learning projects
 
-======================
+---------------------------------------------------------------
 
 ## Usage
 
